@@ -4,7 +4,7 @@
 
 __About me__
 - I'm self-taught developer, I wrote my first program about 10 years ago. But despite this, my skills cannot be called high, but I am learning and trying to improve them.
-- I don't have any big projects that I could write about here, but I do have ambitions, and maybe I'll be able to write something soon.
+- I don't have any big projects that I could write about here, but I do have ambitions, And looking forward to be able to take part in big projects and start my own.
 - I'm currently studying the backend. Django, fast api, PostgreSQL, sqLite and some more technologys.
 - I mainly write in Python, but I also don't forbid myself from trying something new and exotic.
 - I’m looking for help with ... I'm open to any help, you can always submit issues in any of my repos, or pull requests.
